@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-03
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I was invited to give a keynote talk at the <a href='https://justizministerium.hessen.de/presse/workshop-reihe-zum-thema-kuenstliche-intelligenz-fuer-die-justiz'>AI in the Judiciary</a> workshop of the Hessian Ministry of Justice
