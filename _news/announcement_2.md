@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href='https://www.sciencedirect.com/science/article/pii/S1071581924001630'>New publication</a> in the International Journal of Human-Computer Studies on information needs of AI Novices 🎉 
+We published a <a href='https://www.sciencedirect.com/science/article/pii/S1071581924001630'>paper in the International Journal of Human-Computer Studies</a> on information needs of AI Novices 🎉 
