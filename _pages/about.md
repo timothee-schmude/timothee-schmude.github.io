@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "I was startled to see how quickly and how very deeply people conversing With DOCTOR became emotionally involved with the computer and how unequivocally they anthropomorphized it." - Joseph Weizenbaum in <a href='https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason'>Computer Power and Human Reason</a>
+subtitle: I was startled to see how quickly and how very deeply people conversing With DOCTOR became emotionally involved with the computer and how unequivocally they anthropomorphized it. - Joseph Weizenbaum in <a href='https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason'>Computer Power and Human Reason</a>
 
 profile:
   align: right
