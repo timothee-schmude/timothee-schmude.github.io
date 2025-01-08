@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm visiting Télécom Paris in Massy until January 2025 to research policy of explainable and contestable AI
+I'm visiting Télécom Paris in Palaiseau until January 2025 to research policy of explainable and contestable AI
