@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Timothée, a PhD student at the <a href='https://vda.cs.univie.ac.at/team/person/1001666/#publications'>University of Vienna</a> working on explainable and contestable AI. My research focuses on how explanations of algorithmic systems are understood by people and uses qualitative methods to evaluate explanation approaches with stakeholders in interview settings. The latest projects examine the information needs and understanding processes of AI novices, explanation designs for group deliberations, and regulation of explainable and contestable AI.
+Hi! I'm Timothée, a PhD student at the <a href='https://vda.cs.univie.ac.at/team/person/1001666/#publications'>University of Vienna</a> working on explainable and contestable AI. I'm interested in how explanations help people understand algorithmic systems and develop explanation designs to test in interviews and workshops. My latest projects look at the information needs of AI novices, explanation design for group decision-making, and regulation of explainable and contestable AI.
 
-In my free time, I like to go hiking and climbing, and I recently acquired a taste for knitting. I'm also enthusiastic about all sorts of books, some of which I review and comment on the <a href="https://timothee-schmude.github.io/blog">blog page<\a>. 
+In my free time, I like to go hiking and climbing, and I recently acquired a taste for knitting. I'm also enthusiastic about all sorts of books, some of which I review and comment on the <a href="https://timothee-schmude.github.io/blog">blog page</a>. 
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
