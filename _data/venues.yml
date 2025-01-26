@@ -1,13 +1,30 @@
 
-"FAccT23":
-  url: https://facctconference.org/2023/acceptedpapers.html
 
-"Test":
-  url: https://facctconference.org/2023/acceptedpapers.html
+"Preprint 24a":
+  url: https://arxiv.org/abs/2405.10706
+  
+"Preprint 24b":
+  url: https://arxiv.org/abs/2411.11449
 
-"FAccT'23":
-  url: https://facctconference.org/2023/acceptedpapers.html
+"Preprint 23":
+  url: https://arxiv.org/abs/2305.16700
+
+"juridikum":
+  url: https://biblioscout.net/article/10.33196/juridikum202402024401
+
+"FAccT 23":
+  url: https://dl.acm.org/doi/abs/10.1145/3593013.3594054
+
+"IJHCS":
+  url: https://www.sciencedirect.com/science/article/pii/S1071581924001630
 
 "PhysRev":
   url: https://facctconference.org/2023/acceptedpapers.html
 
+"RecSys 23":
+  url: https://dl.acm.org/doi/10.1145/3604915.3608754
+
+"AI Campus":
+  url: https://zenodo.org/records/7319832
+
+  
