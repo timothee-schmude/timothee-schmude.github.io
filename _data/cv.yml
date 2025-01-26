@@ -13,8 +13,7 @@
       institution: University of Vienna, Austria
       year: Since 2022
       description:
-        - 'Thesis: ”XAI for the Public: Explaining What People Want to Know” (working title)'
-        - Research visit at Télécom Paris, France, from 10/24 to 02/25 on the topic of explainability and contestability in AI regulation
+        - "Thesis: 'Explainability and Contestability for the Responsible Use of Public Sector AI'"
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -23,19 +22,19 @@
       institution: University of Cologne, Germany
       year: 2022
       description:
-        - "Thesis: ”Texts of the Future: How Writing Machines Are Changing Literature”"
+        - "Thesis: 'Texts of the Future: How Writing Machines Are Changing Literature'"
         - Training in writing of professional academic, journalistic, and fictional texts.
     - title: Master of Arts - Information Processing
       institution: University of Cologne, Germany
       year: 2021
       description:
-        - Thesis ”Information Extraction from Legal Documents An Analysis of Performance and Interpretability”
+        - "Thesis: 'Information Extraction from Legal Documents An Analysis of Performance and Interpretability'”
         - Interdisciplinary program to teach programming and critical reflection on technology; focus on machine learning and AI.
     - title: Bachelor of Arts - Media Studies and Practice
       institution: University of Bayreuth, Germany
       year: 2018
       description:
-        - Thesis ”On the Form and Necessity of Digital Ethics in Cybernetics”
+        - "Thesis: 'On the Form and Necessity of Digital Ethics in Cybernetics'"
         - Training in the analysis and production of media; student engagement as chief editor of campus radio. 
 
 - title: Experience
@@ -43,7 +42,7 @@
   contents:
     - title: Visiting Researcher
       institution: Télécom Paris, France
-      year: 10/2024 - 02/2025
+      year: 2024 - 2025
       description:
         - Four-month research stay in the course of PhD studies 
         - Collaboration with researchers from France and NL on the regulation of explainable and contestable AI 
@@ -51,18 +50,23 @@
       institution: University of Vienna, Austria
       year: Since 2022
       description:
-        - Empirical Qualitative Research -- Interviews and workshops to learn about AI novices’ understanding of AI systems and 
-          tailor explanations to their needs.
-        - Interdisciplinary Research Approaches -- Project lead for papers connecting HCI, design, and legal research.
-        - Lecturing -- Lecturing and grading in courses on Human‑Computer Interaction and Visualization. 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Empirical Qualitative Research: Interviews and workshops to examine explanation design and evaluation for AI novices."
+        - "Interdisciplinary Research Approaches: Coordinating research projects connecting HCI, design, and legal research."
+        - "Lecturing: HCI and Visualization." 
+    - title: Lecturer
+      institution: University of Cologne, Germany
+      year: 2021-2022
       description:
+        - "Course Implementation: Create and prepare weekly lectures for 25 students on Deep learning architectures and applications."
+        - "Programming Exercises in Python: Build notebooks and programming problems using Deep Learning library TensorFlow."
+
+    - title: Software developer
+      institution: molytix 
+      year: 2021 - 2022
+      description:
+        - "Data Analysis in C#: Develop .NET web‑app for calculation, analysis, and presentation of ticketing data."
+        - "Product Development with GTFS Data: Build product prototypes for analysis of transit specification data."
+        - "Homepage Launch: Design, plan, and launch new company homepage molytix.com."
 
     - title: Associate Professor of Theoretical Physics
       institution: University of Zurich, Zurich, Switzerland
