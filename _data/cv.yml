@@ -2,31 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Timothée Schmude
     - name: Languages
-      value: English, German
+      value: German, English, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Vienna, Austria
+      year: Since 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: ”XAI for the Public: Explaining What People Want to Know” (working title)
+        - Research visit at Télécom Paris, France, from 10/24 to 02/25 on the topic of explainability and contestability in AI regulation
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Arts
+      institution: University of Cologne, Germany
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: ”Texts of the Future: How Writing Machines Are Changing Literature”
+        - Training in writing of professional academic, journalistic, and fictional texts.
 
 - title: Experience
   type: time_table
