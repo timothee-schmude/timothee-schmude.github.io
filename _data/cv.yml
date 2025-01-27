@@ -5,6 +5,12 @@
       value: Timothée Schmude
     - name: Languages
       value: German, English, French
+    - name: Email
+      value: timothee.schmude(at)univie.ac.at
+    - name: Website
+      value: https://timothee-schmude.github.io
+    - name: Summary
+      value: PhD student in explainable and contestable AI, focusing on how AI systems are integrated into society and how explanations can help people understand and challenge these systems. 
 
 - title: Education
   type: time_table
@@ -14,28 +20,25 @@
       year: Since 2022
       description:
         - "Thesis: 'Explainability and Contestability for the Responsible Use of Public Sector AI'"
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Research on the design of explainable and contestable AI
     - title: Master of Arts - Theories and Practices of Professional Writing
       institution: University of Cologne, Germany
       year: 2022
       description:
         - "Thesis: 'Texts of the Future: How Writing Machines Are Changing Literature'"
-        - Training in writing of professional academic, journalistic, and fictional texts.
+        - Professional writing of academic, journalistic, and fictional texts
     - title: Master of Arts - Information Processing
       institution: University of Cologne, Germany
       year: 2021
       description:
         - "Thesis: 'Information Extraction from Legal Documents An Analysis of Performance and Interpretability'"
-        - Interdisciplinary program to teach programming and critical reflection on technology; focus on machine learning and AI.
+        - Programming and critical assessment of technology with a focus on AI
     - title: Bachelor of Arts - Media Studies and Practice
       institution: University of Bayreuth, Germany
       year: 2018
       description:
         - "Thesis: 'On the Form and Necessity of Digital Ethics in Cybernetics'"
-        - Training in the analysis and production of media; student engagement as chief editor of campus radio. 
+        - Analysis and production of media, chief editor of campus radio 
 
 - title: Experience
   type: time_table
@@ -45,50 +48,53 @@
       year: 2024 - 2025
       description:
         - Four-month research stay in the course of PhD studies 
-        - Collaboration with researchers from France and NL on the regulation of explainable and contestable AI 
+        - Research collcaboration on the regulation of explainable and contestable AI 
     - title: Research Project Assistant
       institution: University of Vienna, Austria
       year: Since 2022
       description:
-        - "Empirical Qualitative Research: Interviews and workshops to examine explanation design and evaluation for AI novices."
-        - "Interdisciplinary Research Approaches: Coordinating research projects connecting HCI, design, and legal research."
-        - "Lecturing: HCI and Visualization." 
+        - Interviews and workshops examining explanation design and evaluation for AI novices
+        - Projects connecting HCI, design, and legal research
+        - Lecturing HCI and Visualization 
     - title: Lecturer
       institution: University of Cologne, Germany
       year: 2021-2022
       description:
-        - "Course Implementation: Create and prepare weekly lectures for 25 students on Deep learning architectures and applications."
-        - "Programming Exercises in Python: Build notebooks and programming problems using Deep Learning library TensorFlow."
+        - Weekly lectures on deep learning architectures and applications
+        - Preparation of programming problems using TensorFlow
 
     - title: Software developer
-      institution: molytix 
+      institution: molytix, Cologne, Germany 
       year: 2021 - 2022
       description:
-        - "Data Analysis in C#: Develop .NET web‑app for calculation, analysis, and presentation of ticketing data."
-        - "Product Development with GTFS Data: Build product prototypes for analysis of transit specification data."
-        - "Homepage Launch: Design, plan, and launch new company homepage molytix.com."
+        - Calculation, analysis, and presentation of ticketing data using C#
+        - Prototypes for analyzing transit specification data
+        - Design, planning, and launch of company homepage molytix.com
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Working student
+      institution: Fraunhofer‑Institute IAIS, St. Augustin, Germany
+      year: 2020 - 2021
+      description:
+        - Prototype for court sentence database with automated information extraction using Python
 
-- title: Open Source Projects
+    - title: Hostmaster
+      institution: Computing Center, University of Cologne, Germany
+      year: 2018 - 2020
+      description:
+        - Management of university network using Linux 
+
+- title: Fellowships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Research Fellowship for High-Level Scientific Stays (SSHN) in France
+    - year: 2022 - 2023
       items:
-        - Max Planck Medal
+        - Digital Innovation Lab Fellowship for transfer of research into business
+    - year: 2021 - 2022
+      items:
+        - AI Campus Fellowship Recipient to develop and evaluate educational resources on AI
 
 - title: Academic Interests
   type: nested_list
@@ -105,4 +111,6 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Books:</u> Politics, History, Methods books, Novels, lately <i>Technofeudalism</i>, <i>Unreasonable Hospitality</i>, and <i>Julia (1984)</i>.
+    - <u>Sports:</u> Climbing, hiking, cycling.
+    - <u>Games:</u> Co-operative games with friends or single player challengers, lately <i>Balatro</i>, <i>Barotrauma</i>and <i>Hades 2</i>. 
