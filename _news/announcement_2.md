@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We published a <a href='https://doi.org/10.1016/j.ijhcs.2024.103380'>paper in the International Journal of Human-Computer Studies</a> on information needs of AI Novices 🎉 
+🎉 We published a <a href='https://doi.org/10.1016/j.ijhcs.2024.103380'>paper in the International Journal of Human-Computer Studies</a> on information needs of AI Novices
