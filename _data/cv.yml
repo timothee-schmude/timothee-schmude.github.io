@@ -48,19 +48,19 @@
       year: 2024 - 2025
       description:
         - Four-month research stay in the course of PhD studies 
-        - Research collcaboration on the regulation of explainable and contestable AI 
+        - Collaboration on the regulation of explainable and contestable AI 
     - title: Research Project Assistant
       institution: University of Vienna, Austria
       year: Since 2022
       description:
-        - Interviews and workshops examining explanation design and evaluation for AI novices
+        - Investigating explanation design for AI novices using qualitative methods
         - Projects connecting HCI, design, and legal research
-        - Lecturing HCI and Visualization 
+        - Lectures in HCI and Visualization 
     - title: Lecturer
       institution: University of Cologne, Germany
       year: 2021-2022
       description:
-        - Weekly lectures on deep learning architectures and applications
+        - Lectures on deep learning architectures and applications
         - Preparation of programming problems using TensorFlow
 
     - title: Software developer
@@ -99,18 +99,18 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Designing explanations of AI systems for non-technical audiences
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Requirement analyses, design prototyping, evaluation of understanding
+        - Broadening the scope of technical explanations to include information on usage and context of AI systems
+    - title: Power imbalances created through the use of AI in public institutions
       items:
-        - Description 1.
-        - Description 2.
+        - Intersection of explanation and contestation, designing mechanisms that support both principles
+        - Bridging the design and regulation of explainable and contestable AI to provide guidance on implementation  
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Books:</u> Politics, History, Methods books, Novels, lately <i>Technofeudalism</i>, <i>Unreasonable Hospitality</i>, and <i>Julia (1984)</i>.
+    - <u>Books:</u> Politics, history, research methods, novels. Lately <i>Technofeudalism</i>, <i>Unreasonable Hospitality</i>, and <i>Julia (1984)</i>.
     - <u>Sports:</u> Climbing, hiking, cycling.
-    - <u>Games:</u> Co-operative games with friends or single player challengers, lately <i>Balatro</i>, <i>Barotrauma</i>and <i>Hades 2</i>. 
+    - <u>Games:</u> Co-operative games with friends or single player challengers. Lately <i>Balatro</i>, <i>Barotrauma</i>and <i>Hades 2</i>. 
