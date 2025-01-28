@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Timothée, a PhD student at the <a href='https://vda.cs.univie.ac.at/team/person/1001666/#publications'>University of Vienna</a> working on explainable and contestable AI. I'm interested in how explanations help people understand algorithmic systems and develop explanation designs to test in interviews and workshops. My latest projects look at the information needs of AI novices, explanation design for group decision-making, and regulation of explainable and contestable AI.
+Hi! I'm Timothée, a PhD student at the <a href='https://vda.cs.univie.ac.at/team/person/1001666/#publications'>University of Vienna</a> working on explainable and contestable AI. I'm interested in how explanations help people understand and challenge algorithmic systems and conduct interviews and workshops to investigate these topics. My latest projects look at the information needs of AI novices, explanation design for group decision-making, and regulation of explainable and contestable AI.
 
 In my free time, I like to go hiking and climbing, and I recently acquired a taste for knitting. I'm also enthusiastic about all sorts of books, my latest reads include *<a href='https://www.penguin.co.uk/books/451795/technofeudalism-by-varoufakis-yanis/9781529926095'>Technofeudalism</a>*, 
 *<a href='https://www.penguinrandomhouse.com/books/674289/unreasonable-hospitality-by-will-guidara/'>Unreasonable Hospitality</a>*, and 
