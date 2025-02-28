@@ -2,12 +2,17 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+email: timothee.schmude@univie.ac.at # your email address
+scholar_userid: clG_VOgAAAAJ&hl # your Google Scholar ID
+research_gate_profile: Timothee-Schmude # your profile on ResearchGate
+linkedin_username: timothée-schmude-17a032218 # your LinkedIn user name
+stackoverflow_id: 13440007 # your stackoverflow id
+
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: timothee.schmude@univie.ac.at # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -20,7 +25,6 @@ email: timothee.schmude@univie.ac.at # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: timothée-schmude-17a032218 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -28,13 +32,10 @@ linkedin_username: timothée-schmude-17a032218 # your LinkedIn user name
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: Timothee-Schmude # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
-scholar_userid: clG_VOgAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
-stackoverflow_id: 13440007 # your stackoverflow id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
