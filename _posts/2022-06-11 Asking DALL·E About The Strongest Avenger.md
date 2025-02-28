@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asking DALL·E About The Strongest Avenger; and Other Matters
-date: 2022-06-11 10:00
+date: 2022-06-11 10:00:00
 description: Playing around with image generating AI
 tags: genAI
 categories: posts
