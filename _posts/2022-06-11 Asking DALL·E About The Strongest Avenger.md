@@ -2,7 +2,7 @@
 layout: post
 title: Asking DALL·E About The Strongest Avenger; and Other Matters
 date: 2022-06-11 10:00
-description: this is what a post that can be cited looks like
+description: Playing around with image generating AI
 tags: genAI
 categories: posts
 citation: true
