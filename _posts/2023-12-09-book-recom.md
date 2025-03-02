@@ -20,7 +20,7 @@ Only after making it through these books without being too exhausted, I gave non
 
 By now, I encountered several fantastic books in that very niche that I wanted to talk about at some point. Hence, this is a round of flash-reviews of pleasurable non-fiction books that I can recommend. Disclaimer: These are neither very current nor coherent in topic nor connected by anything, just a selection of good non-fiction books. Namely: The Culture Map, Gorillas in the Mist, Tally’s Corner, A Gentle Guide to Research Methods, and Nuremberg Diary.
 
-<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_culture_map.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
@@ -33,7 +33,11 @@ The resulting scales are lovely to compare different countries and to produce pr
 
 Thanks go to Jan Wiegner for the tip!
 
-{% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_fossey.jpg" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+        <div class=""col-sm mt-3 mt-md-0">
+          {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_fossey.jpg" class="img-fluid rounded z-depth-1" %}
+      </div>
+</div>
 
 ### Gorillas in the Mist. Dian Fossey, 1983.
 
