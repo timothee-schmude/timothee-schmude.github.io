@@ -49,7 +49,7 @@ You might know Jane Goodall, the famous chimpanzee researcher. Dian Fossey was t
 Gorillas in the Mist is an important book for both researchers and environmentalists. Not only does it describe the subject of research in an easily accessible, fascinating and love-inducing way – enriched further by photo series taken by Fossey herself –, it also shows a person invested with her full life in protecting what she studies. Though Fossey did not seem to be an easy person. Accounts of her students and collaborators describe her as hard beyond measure, demanding, and in pursuit of her own goals with little regard for anything else other than the wildlife in Karisoke. Personally, I believe that only characters such as these can endure the pressure and danger brought on by extreme situations such as the study of mountain gorillas in a time where nobody gave two thoughts about their conservation. If you are intrigued by these characters, by the study of wildlife, and by the description the exhilarating, egregious circumstances of field research, then this book is for you.
 
 <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
+        <div class="col-sm-12">
         {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_tally.jpg" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
