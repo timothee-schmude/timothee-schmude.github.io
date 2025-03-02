@@ -60,9 +60,11 @@ Liebow was an urban anthropologist who in the 60s immersed himself in the life o
 
 The book’s last chapter contains Liebow’s meta-reflections on the experience of conducting an ethnographic field study in the streets of Washington D.C. and holds precious insight for anyone who plans to talk to people as part of their research. What Fossey’s book does for wildlife and conservation, Liebow’s book does for anthropology and social studies, and I can fully recommend both as captivating examples for academic studies that go beyond the narrow circle of academia to present their contents in a way that makes them accessible, fascinating, and relevant for everyone.
 
+![alt text](assets/img/posts_images/book_recom_lovecraft.png "Title")
+
 <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_lovecraft.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_lovecraft.png" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
 <div class="caption">
