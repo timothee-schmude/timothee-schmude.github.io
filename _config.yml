@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Timothée
-middle_name: 
+middle_name:
 last_name: Schmude
 contact_note: >
   Don’t hesitate to get in touch! I'll most quickly answer via mail :-)
@@ -248,14 +248,16 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 jekyll-archives:
   posts:
-    enabled: [year, tags] # enables year, tag and category archives (remove if you need to disable one of them).
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
     permalinks:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
-#      categories: "/blog/:type/:name/"
+      categories: "/blog/:type/:name/"
+  books:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["books", "methods", "genAI"] # these tags will be displayed on the front page of your blog
-# display_categories: [] # these categories will be displayed on the front page of your blog
+display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
