@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Surprising and Irritating: How to get what people say using abductive analysis (in XAI)' 
+title: 'Surprising and Irritating: How to get what people say using abductive analysis (in XAI)'
 date: 2023-11-30 10:00:00
 description: A primer on abductive analysis
 tags: books
@@ -53,11 +53,11 @@ My idea of how abductive analysis arrives at theory: Explanations for surprising
 
 <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts_images/abduction_process" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts_images/abduction_process.png" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
 <div class="caption">
-     My idea of how abductive analysis arrives at theory: Explanations for surprising evidence are considered and applied by revisiting and defamiliarizing data. Finally, when no theory sufficiently explains a piece of         data, a new theory is created.
+     My idea of how abductive analysis arrives at theory: Explanations for surprising evidence are considered and applied by revisiting and defamiliarizing data. Finally, when no theory sufficiently explains a piece of data, a new theory is created.
 </div>
 
 ### The how-to of abductive analysis
