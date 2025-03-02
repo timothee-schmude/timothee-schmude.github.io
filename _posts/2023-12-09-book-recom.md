@@ -21,7 +21,7 @@ Only after making it through these books without being too exhausted, I gave non
 By now, I encountered several fantastic books in that very niche that I wanted to talk about at some point. Hence, this is a round of flash-reviews of pleasurable non-fiction books that I can recommend. Disclaimer: These are neither very current nor coherent in topic nor connected by anything, just a selection of good non-fiction books. Namely: The Culture Map, Gorillas in the Mist, Tally’s Corner, A Gentle Guide to Research Methods, and Nuremberg Diary.
 
 <div class="row mt-3">
-        <div class=""col-sm-12">
+        <div class="col-sm-12">
         {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_culture_map.jpg" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
@@ -37,7 +37,7 @@ Thanks go to Jan Wiegner for the tip!
 
 
 <div class="row mt-3">
-        <div class=""col-sm-12">
+        <div class="col-sm-12">
         {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_fossey.jpg" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
@@ -61,7 +61,7 @@ Liebow was an urban anthropologist who in the 60s immersed himself in the life o
 The book’s last chapter contains Liebow’s meta-reflections on the experience of conducting an ethnographic field study in the streets of Washington D.C. and holds precious insight for anyone who plans to talk to people as part of their research. What Fossey’s book does for wildlife and conservation, Liebow’s book does for anthropology and social studies, and I can fully recommend both as captivating examples for academic studies that go beyond the narrow circle of academia to present their contents in a way that makes them accessible, fascinating, and relevant for everyone.
 
 <div class="row mt-3">
-        <div class=""col-sm-12">
+        <div class="col-sm-12">
         {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_lovecraft.png" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
@@ -74,7 +74,7 @@ The book’s last chapter contains Liebow’s meta-reflections on the experience
 Someone who talks about academic studies all the time is bound to mention a methods book somewhere. Granted: This one is more relevant for young researchers who are not yet firm in how the basics of research methods are done: a usually rather dry matter, but this book succeeds marvellously in conveying it! For starters, the authors precede each chapter with quotes, often taken from H. P. Lovecraft’s fantasy novels on cosmic horrors beyond human imagination (here’s a hidden book tip! Houellebecq’s great criticism of Lovecraft, Against the World, Against Life). Moreover, it’s a methods book written in simple, coherent, and entertaining style – three things that you would absolutely not expect this genre to nail. In a nutshell: If you are looking for a book to teach you about the basics of empirical research, look no further. By the way: One of the authors is a computer scientist, so there’s no question of whether the described information is also relevant to fields outside of the social sciences.
 
 <div class="row mt-3">
-        <div class=""col-sm-12">
+        <div class="col-sm-12">
         {% include figure.liquid loading="eager" path="assets/img/posts_images/book_recom_nuremberg.jpg" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
