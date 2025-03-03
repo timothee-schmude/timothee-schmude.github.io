@@ -70,7 +70,7 @@ In the spirit of a true crash course I will close this method piece with an atte
 
 And with that I leave you. My feelings towards abductive analysis are of fascination and confusion in equal parts and indeed I have turned and twisted these ideas in my head for a few weeks now, trying to find a perspective that allows for easy application. Despite the title of this article, what perspectives I have found so far don’t take the form of a manual, but rather lead to a change in consciousness for how empirical studies allow us to gather and understand data. In my case, it sparked confidence that producing surprising and irritating data is not only allowed, but even desirable.
 
-**Inspiring or puzzling? Do let me know what you think about abduction! **
+**Inspiring or puzzling? Do let me know what you think about abduction!**
 
 Here are the references used:
 
