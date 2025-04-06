@@ -40,6 +40,15 @@ This means that algorithms – by design – are not used to maximize or even im
      Every gauge should say what it measures. Picture by Eric Prouzet.
 </div>
 
+<div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts_images/replacing_humans_thumbnail.jpg" class="img-fluid rounded z-depth-1" %}
+    	</div>
+</div>
+<div class="caption">
+     Every gauge should say what it measures. Picture by Eric Prouzet.
+</div>
+
 ### Algorithms leave gigantic and very resistant imprints
 
 Let’s take one step back to the point where the algorithm is not yet implemented in our job agency. The idea has just entered the discussion and there are arguments for both sides: If we implement it, it could raise the agency’s efficiency and give it some fighting ground in the funding negotiations with the city next year. If not, we see it as a pilot phase and simply dismantle it again. What could go wrong?
@@ -76,4 +85,4 @@ Thanks for reading. Here are some references if you want to dive in deeper:
 
 [5] Jacobs, Abigail Z., and Hanna Wallach. "Measurement and fairness." Proceedings of the 2021 ACM conference on fairness, accountability, and transparency. 2021. https://doi.org/10.1145/3442188.3445901
 
-[6] Lopez, Paola. "Reinforcing intersectional inequality via the AMS algorithm in Austria." Critical issues in science, technology and society studies: Conference proceedings of the STS conference Graz. 2019. https://doi.org/10.3217/978-3-85125-668-0-16 
+[6] Lopez, Paola. "Reinforcing intersectional inequality via the AMS algorithm in Austria." Critical issues in science, technology and society studies: Conference proceedings of the STS conference Graz. 2019. https://doi.org/10.3217/978-3-85125-668-0-16
