@@ -6,7 +6,7 @@ description: Three reasons for thinking twice before putting AI in your public i
 # tags: books methods
 # categories: posts
 citation: true
-# thumbnail: assets/img/posts_images/
+thumbnail: assets/img/posts_images/replacing_humans_thumbnail.jpg
 ---
 
 Nearly every day a politician, industry leader, or someone else in power sings the gospel of AI productivity increases. AI, they say, will make things better, faster, stronger, look how much it has already done! It streamlines redundant tasks, codes for us, writes and edits our reports, ads, press statements, there’s nothing it can’t do. All of this might be true and all of this might be just automation going forward. But this talk gets delicate when the same people propose that AI could increase productivity in public institutions. Specifically, in institutions that exist to interact with and support people, like job agencies, social security, and healthcare institutions.
