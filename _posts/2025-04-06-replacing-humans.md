@@ -6,7 +6,7 @@ description: Three reasons for thinking twice before putting AI in your public i
 # tags: books methods
 # categories: posts
 citation: true
-thumbnail: assets/img/posts_images/replacing_humans_thumbnail.jpg
+thumbnail: assets/img/posts_images/dall_e_thumbnail.jpg
 ---
 
 _This is an opinion piece summarizing my thoughts on why putting AI in public institutions will not solve many problems and might introduce many news ones. You might naturally not agree with all things, but whether you do or do not, I'll be happy to hear what you think._
