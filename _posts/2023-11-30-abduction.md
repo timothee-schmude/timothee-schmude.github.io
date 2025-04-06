@@ -6,8 +6,7 @@ description: A primer on abductive analysis
 # tags: books methods
 # categories: posts
 citation: true
-thumbnail: assets/img/posts_images/replacing_humans_thumbnail.jpg
-# assets/img/posts_images/abduction_thumbnail.jpg
+thumbnail: assets/img/posts_images/abduction_thumbnail.jpg
 ---
 _This is a piece on qualitative methods and abductive analysis in explainable AI. Here's the TL;DR: Talking to people is a good idea if you want to find out which explanations they need. But analysing what they tell you is a different story, especially if it’s surprising and confusing. To get the most out of it, abductive analysis has three recommendations: revisit your data, defamiliarize yourself, and use alternative theoretical casings. The list at the end explains what these mean._
 
