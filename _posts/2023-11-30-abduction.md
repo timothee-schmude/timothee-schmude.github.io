@@ -3,8 +3,8 @@ layout: post
 title: 'Surprising and Irritating: How to get what people say using abductive analysis (in XAI)'
 date: 2023-11-30 10:00:00
 description: A primer on abductive analysis
-tags: books methods
-categories: posts
+# tags: books methods
+# categories: posts
 citation: true
 thumbnail: assets/img/posts_images/abduction_thumbnail.jpg
 ---

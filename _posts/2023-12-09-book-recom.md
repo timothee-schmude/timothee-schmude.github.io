@@ -3,8 +3,8 @@ layout: post
 title: Five Good Books (AI-free)
 date: 2023-12-09 10:00:00
 description: Five reading recommendations across genres
-tags: books
-categories: posts
+# tags: books
+# categories: posts
 citation: false
 thumbnail: assets/img/posts_images/book_recom_thumbnail.png
 ---
