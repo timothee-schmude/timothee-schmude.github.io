@@ -37,7 +37,7 @@ This means that algorithms – by design – are not used to maximize or even im
     	</div>
 </div>
 <div class="caption">
-     Every gauge should say what it measures. Picture by [Eric Prouzet](https://unsplash.com/@eprouzet).
+     Every gauge should say what it measures. Picture by Eric Prouzet.
 </div>
 
 ### Algorithms leave gigantic and very resistant imprints
@@ -76,4 +76,4 @@ Thanks for reading. Here are some references if you want to dive in deeper:
 
 [5] Jacobs, Abigail Z., and Hanna Wallach. "Measurement and fairness." Proceedings of the 2021 ACM conference on fairness, accountability, and transparency. 2021. https://doi.org/10.1145/3442188.3445901
 
-[6] Lopez, Paola. "Reinforcing intersectional inequality via the AMS algorithm in Austria." Critical issues in science, technology and society studies: Conference proceedings of the STS conference Graz. 2019. https://paolalopez.eu/wp-content/uploads/2019/11/LOPEZ_Preprint.pdf
+[6] Lopez, Paola. "Reinforcing intersectional inequality via the AMS algorithm in Austria." Critical issues in science, technology and society studies: Conference proceedings of the STS conference Graz. 2019. https://doi.org/10.3217/978-3-85125-668-0-16 
