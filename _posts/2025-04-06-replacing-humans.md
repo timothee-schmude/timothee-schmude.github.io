@@ -33,7 +33,7 @@ This means that algorithms – by design – are not used to maximize or even im
 
 <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts_images/replacing_people_gauge" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts_images/replacing_humans_gauge.jpg" class="img-fluid rounded z-depth-1" %}
     	</div>
 </div>
 <div class="caption">
