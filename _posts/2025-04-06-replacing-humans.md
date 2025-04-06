@@ -3,10 +3,10 @@ layout: post
 title: Replacing Humans with Machines is a Terrible Idea
 date: 2025-04-06 10:00:00
 description: Three reasons for thinking twice before putting AI in your public institutions
-tags: books methods
-categories: posts
+# tags: books methods
+# categories: posts
 citation: true
-thumbnail: assets/img/posts_images/dall_e_thumbnail.jpg
+thumbnail: assets/img/posts_images/replacing_humans_thumbnail.jpg
 ---
 
 _This is an opinion piece summarizing my thoughts on why putting AI in public institutions to replace people will not solve any problems and might introduce many news ones. You might naturally not agree with all things, but whether you do or do not, I'll be happy to hear what you think._
