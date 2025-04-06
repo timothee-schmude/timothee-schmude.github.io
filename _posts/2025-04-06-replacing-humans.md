@@ -40,15 +40,6 @@ This means that algorithms – by design – are not used to maximize or even im
      Every gauge should say what it measures. Picture by Eric Prouzet.
 </div>
 
-<div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts_images/replacing_humans_thumbnail.jpg" class="img-fluid rounded z-depth-1" %}
-    	</div>
-</div>
-<div class="caption">
-     Every gauge should say what it measures. Picture by Eric Prouzet.
-</div>
-
 ### Algorithms leave gigantic and very resistant imprints
 
 Let’s take one step back to the point where the algorithm is not yet implemented in our job agency. The idea has just entered the discussion and there are arguments for both sides: If we implement it, it could raise the agency’s efficiency and give it some fighting ground in the funding negotiations with the city next year. If not, we see it as a pilot phase and simply dismantle it again. What could go wrong?
