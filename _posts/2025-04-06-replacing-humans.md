@@ -15,7 +15,7 @@ thumbnail: assets/img/posts_images/replacing_humans_thumbnail.jpg
     	</div>
 </div>
 <div class="caption">
-     Is this what the public agency of the future looks like? What seems like a dystopian building complex fused into a historic city district is actually just a fancy construction tarp in Bratislava. but it makes quite the impression.
+     Is this what the public agency of the future looks like? What seems like a dystopian building complex is actually just a fancy construction tarp in Bratislava, but it makes quite the impression.
 </div>
 
 _This is an opinion piece summarizing my thoughts on why putting AI in public institutions to replace people will not solve any problems and might introduce many news ones. You might naturally not agree with all things, but whether you do or do not, I'll be happy to hear what you think._
