@@ -77,9 +77,8 @@ Coincidentally, we have published some research on making it easier for people t
 - [On the Impact of Explanations on Understanding of Algorithmic Decision-Making](https://dl.acm.org/doi/abs/10.1145/3593013.3594054)
 - [Information that matters: Exploring information needs of people affected by algorithmic decisions](https://www.sciencedirect.com/science/article/pii/S1071581924001630)  
 
----
 
-Thanks for reading! Here are some references if you want to dive in deeper:
+Thanks for reading! Here are some more references if you want to dive in deeper:
 
 [1] Allhutter, Doris, et al. "Algorithmic profiling of job seekers in Austria: How austerity politics are made effective." Frontiers in big data 3 (2020): 5. https://doi.org/10.3389/fdata.2020.00005
 
