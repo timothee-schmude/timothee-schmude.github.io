@@ -73,6 +73,10 @@ For every AI system that is deployed in public institutions, we need to ask ours
 
 This is why it is important to know what’s going on in the system and how you can raise objections against it: There’s a good chance that an AI system is not acting in your interest. If cruelty is the point of the system, then it _will_ inflict harm. Knowing who is responsible for this harm, and, most importantly, not trusting the AI to even get your age right, is crucial to prevent algorithmic fallout.
 
+Coincidentally, we have published some research on making it easier for people to know what's going on in an AI system. If you're interested in that, check out these two papers:
+- [On the Impact of Explanations on Understanding of Algorithmic Decision-Making](https://dl.acm.org/doi/abs/10.1145/3593013.3594054)
+- [Information that matters: Exploring information needs of people affected by algorithmic decisions](https://www.sciencedirect.com/science/article/pii/S1071581924001630)  
+
 ---
 
 Thanks for reading! Here are some references if you want to dive in deeper:
