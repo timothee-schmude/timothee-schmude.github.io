@@ -9,6 +9,15 @@ citation: true
 thumbnail: assets/img/posts_images/replacing_humans_thumbnail.jpg
 ---
 
+<div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts_images/replacing_humans_thumbnail.jpg" class="img-fluid rounded z-depth-1" %}
+    	</div>
+</div>
+<div class="caption">
+     Is this what the public agency of the future looks like? What seems like a dystopian building complex fused into a historic city district is actually just a fancy construction tarp in Bratislava. but it makes quite the impression.
+</div>
+
 _This is an opinion piece summarizing my thoughts on why putting AI in public institutions to replace people will not solve any problems and might introduce many news ones. You might naturally not agree with all things, but whether you do or do not, I'll be happy to hear what you think._
 
 Nearly every day a politician, industry leader, or someone else in power sings the gospel of AI productivity increases. AI, they say, will make things better, faster, stronger, look how much it has already done! It streamlines redundant tasks, codes for us, writes and edits our reports, ads, press statements, there’s nothing it can’t do. All of this might be true and all of this might be just automation going forward. But this talk gets delicate when the same people propose that AI could increase productivity in public institutions. Specifically, in institutions that exist to interact with and support people, like job agencies, social security, and healthcare institutions.
