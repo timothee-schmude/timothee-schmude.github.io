@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 I was accepted to the [CHI '25 remote doctoral consortium](https://chi2025.acm.org/for-authors/remote-doctoral-consortium/)!
+🎓 I was accepted to the CHI '25 remote doctoral consortium! Here's my [application paper](https://doi.org/10.1145/3706599.3721096)
