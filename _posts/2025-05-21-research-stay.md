@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What a research stay can do for you
+title: What a Research Stay Can Do for You
 date: 2025-05-21 21:00:00
 description: The perks of doing your PhD research somewhere else for a bit
 # tags: books methods
