@@ -43,6 +43,8 @@ The feeling of stagnation is related to arbitrariness, but different: We see tha
 3.	**Unattainability**: To put in effort is in vain, success *does not exist*.
 If arbitrariness and stagnation mix in an unholy alliance, graduation can seem more and more unlikely. If it’s the guiding star in good times, a sufficient amount of bad luck, frustration, and external hardships can make it blurry to a degree that you doubt it was there in the first place. This moment of perception is not far from an existential crisis and it can tip people over, losing hope that it will come to an end and believing that all the past struggle was for nothing. This feeling certainly is one of the heaviest weights, especially since we know that many people do, in fact, not graduate. One number to capture this effect is how many doctoral students take longer than expected or quit altogether, which seemed to be [around 60% in Europe](https://www.tandfonline.com/doi/abs/10.1080/0158037X.2015.1055463) in 2015 (averaged over disciplines). This pit can be quite dark. But against all this intimidating backdrop, it’s good to remember that there are people who do in fact finish (and that people who do not finish most likely still have very nice lives!). To French speakers, I can recommend a [fantastic comic](https://www.seuil.com/ouvrage/carnets-de-these-tiphaine-riviere/9782021125948) that tells such a story with great charm.
 
+<!-- touch on replication crises? Publish or perish, large outputs risks undermining scientific practice: https://en.wikipedia.org/wiki/Replication_crisis -->
+
 Alright, these are the three apocalyptic riders of PhD struggle. Now that everyone’s afraid, we can come to the part that brings back the light.
 
 ### Completion -- it is entirely possible to graduate
