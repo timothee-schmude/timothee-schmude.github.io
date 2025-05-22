@@ -94,5 +94,3 @@ So, this is what I took away from my research stay, and this is why I would enco
 - When arriving at your exchange place, go every social event you can find (for some time). I was told that research stays can be lonesome if the office is empty. It's easy to meet people through conversation meetups, board games, sports, hikes, book clubs, and the like (the app *Meetup* has a huge selection of such events).   
 
 Thanks for reading! Do not hesitate to reach out if you would like to talk about ways to secure funding, establishing connections abroad, planning the project, and coordinating with your supervisors at home. I’ll be happy to chat and share everything that could be useful.
-
----
