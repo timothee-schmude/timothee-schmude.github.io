@@ -19,7 +19,7 @@ Hi! I'm Timothée, a PhD student at the <a href='https://vda.cs.univie.ac.at/tea
 
 In the quote above Weizenbaum describes his chatbot ELIZA, which very soon turned into a therapy bot for his colleagues and peers. In turn, he re-baptized it as DOCTOR. It's a cute story and a reminder that humans look for humanness in everything.
 
-In my free time, I like to go hiking and climbing, and I recently acquired a taste for knitting. I'm also enthusiastic about all sorts of books, my latest reads include *[The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan%3A_The_Impact_of_the_Highly_Improbable)* (NN Taleb), *Surely You're Joking, Mr. Feynman!* (R Feynman), *The Trading Game* (G Stevenson), *Careless People* (S Wynn-Williams).
+In my free time, I like to go hiking and climbing, and I recently acquired a taste for knitting. I'm also enthusiastic about all sorts of books, my latest reads include *[The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan%3A_The_Impact_of_the_Highly_Improbable)* (NN Taleb), *[Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)* (R Feynman), *[The Trading Game](https://www.penguin.co.uk/books/455809/the-trading-game-by-stevenson-gary/9781802062731)* (G Stevenson), *[Careless People](https://en.wikipedia.org/wiki/Careless_People)* (S Wynn-Williams) 📚.
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
