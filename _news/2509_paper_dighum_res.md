@@ -6,5 +6,5 @@ inline: true
 related\_posts: false
 ---
 
-📜 Our position paper "Start Using Justiﬁcations When Explaining AI Systems to Decision Subjects" was accepted to the *Digital Humanism Research Conference '25* and will be presented on the 20th and 21st November in Vienna!
+📜 Our position paper *[Start Using Justiﬁcations When Explaining AI Systems to Decision Subjects]*(https://doi.org/10.1007/978-3-032-11108-1_14) was accepted to the *Digital Humanism Research Conference '25* and will be presented on the 20th and 21st November in Vienna!
 
