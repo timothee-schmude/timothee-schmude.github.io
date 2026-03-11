@@ -6,11 +6,11 @@
     - name: Languages
       value: German, English, French
     - name: Email
-      value: timothee.schmude(at)univie.ac.at
+      value: timschmude@gmail.com
     - name: Website
       value: https://timothee-schmude.github.io
     - name: Summary
-      value: PhD student in explainable and contestable AI, focusing on how AI systems are integrated into society and how explanations can help people understand and challenge these systems. 
+      value: PhD student in explainable and contestable AI, focusing on how AI systems are integrated into society and how explanations can help people understand and challenge these systems.
 
 - title: Education
   type: time_table
@@ -19,8 +19,9 @@
       institution: University of Vienna, Austria
       year: Since 2022
       description:
-        - "Thesis: 'Explainability and Contestability for the Responsible Use of Public Sector AI'"
+        - "Thesis: Explanations for AI Novices: Understanding, Deliberating, and Contesting Algorithmic Decisions"
         - Research on the design of explainable and contestable AI
+        - Graduation expected in summer 2026
     - title: Master of Arts - Theories and Practices of Professional Writing
       institution: University of Cologne, Germany
       year: 2022
@@ -38,24 +39,29 @@
       year: 2018
       description:
         - "Thesis: 'On the Form and Necessity of Digital Ethics in Cybernetics'"
-        - Analysis and production of media, chief editor of campus radio 
+        - Analysis and production of media, chief editor of campus radio
 
 - title: Experience
   type: time_table
   contents:
-    - title: Visiting Researcher
-      institution: Télécom Paris, France
-      year: 2024 - 2025
+    - title: Scientific Trainee
+      institution: Joint Research Center of the European Commission, Seville
+      year: 2026
       description:
-        - Four-month research stay in the course of PhD studies 
-        - Collaboration on the regulation of explainable and contestable AI 
-    - title: Research Project Assistant
+        - Five-month traineeship with a focus on XAI and AI policy
+    - title: PhD Student
       institution: University of Vienna, Austria
-      year: Since 2022
+      year: 2022-2026
       description:
         - Investigating explanation design for AI novices using qualitative methods
         - Projects connecting HCI, design, and legal research
-        - Lectures in HCI and Visualization 
+        - Lectures in HCI and Visualization
+      - title: Visiting Researcher
+      institution: Télécom Paris, France
+      year: 2024 - 2025
+      description:
+        - Four-month research stay in the course of PhD studies
+        - Collaboration on the regulation of explainable and contestable AI
     - title: Lecturer
       institution: University of Cologne, Germany
       year: 2021-2022
@@ -64,7 +70,7 @@
         - Preparation of programming problems using TensorFlow
 
     - title: Software developer
-      institution: molytix, Cologne, Germany 
+      institution: molytix, Cologne, Germany
       year: 2021 - 2022
       description:
         - Calculation, analysis, and presentation of ticketing data using C#
@@ -81,20 +87,20 @@
       institution: Computing Center, University of Cologne, Germany
       year: 2018 - 2020
       description:
-        - Management of university network using Linux 
+        - Management of university network using Linux
 
-- title: Fellowships
+- title: Stipends
   type: time_table
   contents:
     - year: 2024
       items:
-        - Research Fellowship for High-Level Scientific Stays (SSHN) in France
+        - Research Stipend for High-Level Scientific Stays (SSHN) in France
     - year: 2022 - 2023
       items:
-        - Digital Innovation Lab Fellowship for transfer of research into business
+        - Digital Innovation Lab Stipend for transfer of research into business
     - year: 2021 - 2022
       items:
-        - AI Campus Fellowship Recipient to develop and evaluate educational resources on AI
+        - AI Campus Stipend to develop and evaluate educational resources on AI
 
 - title: Academic Interests
   type: nested_list
@@ -106,11 +112,11 @@
     - title: Power imbalances created through the use of AI in public institutions
       items:
         - Intersection of explanation and contestation, designing mechanisms that support both principles
-        - Bridging the design and regulation of explainable and contestable AI to provide guidance on implementation of public AI systems  
+        - Bridging the design and regulation of explainable and contestable AI to provide guidance on implementation of public AI systems
 
 - title: Other Interests
   type: list
   contents:
     - <u>Books:</u> Politics, history, research methods, novels. Lately <i>Technofeudalism</i>, <i>Unreasonable Hospitality</i>, and <i>Julia (1984)</i>.
     - <u>Sports:</u> Climbing, hiking, cycling.
-    - <u>Games:</u> Co-operative games with friends or single player challenges. Lately <i>Balatro</i>, <i>Barotrauma</i>, and <i>Hades 2</i>. 
+    - <u>Games:</u> Co-operative games with friends or single player challenges. Lately <i>Balatro</i>, <i>Barotrauma</i>, and <i>Hades 2</i>.
