@@ -6,7 +6,7 @@
     - name: Languages
       value: German, English, French
     - name: Email
-      value: timschmude@gmail.com
+      value: timothee.schmude@protonmail.com
     - name: Website
       value: https://timothee-schmude.github.io
     - name: Summary
@@ -17,7 +17,7 @@
   contents:
     - title: PhD - Computer Science
       institution: University of Vienna, Austria
-      year: Since 2022
+      year: 2022 - 2026
       description:
         - "Thesis: Explanations for AI Novices: Understanding, Deliberating, and Contesting Algorithmic Decisions"
         - Research on the design of explainable and contestable AI
@@ -48,7 +48,7 @@
       institution: Joint Research Center of the European Commission, Seville
       year: 2026
       description:
-        - Five-month traineeship with a focus on XAI and AI policy
+        - Five-month traineeship working on AI disclosure methods for research and red-teaming AI companions 
     - title: PhD Student
       institution: University of Vienna, Austria
       year: 2022 - 2026
