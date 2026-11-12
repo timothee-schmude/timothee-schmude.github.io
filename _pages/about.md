@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Timothée, researcher with a focus on explainable and contestable AI as well as AI policy. I hold a PhD in Computer Science from the <a href='https://vda.cs.univie.ac.at/team/person/1001666/#publications'>University of Vienna</a> and my thesis investigates <a href='https://utheses.univie.ac.at/detail/80713/'>Explanations of Algorithmic Decision-Making for AI Novices</a>. Latest projects look at AI disclosure in research and contestability of algorithmic decisions in public institutions.
+Hi! I'm Timothée, researcher with a focus on explainable and contestable AI as well as AI policy. I hold a PhD in Computer Science from the University of Vienna and my thesis investigates *<a href='https://utheses.univie.ac.at/detail/80713/'>Explanations of Algorithmic Decision-Making for AI Novices</a>*. Latest projects look at AI disclosure in research and contestability of algorithmic decisions in public institutions.
 
 In the quote above Weizenbaum describes his chatbot ELIZA, which very soon turned into a therapy bot for his colleagues and peers. In turn, he re-baptized it as DOCTOR. It's a cute story and a reminder that humans look for humanness in everything.
 
