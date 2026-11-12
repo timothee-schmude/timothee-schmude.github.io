@@ -10,7 +10,7 @@
     - name: Website
       value: https://timothee-schmude.github.io
     - name: Summary
-      value: PhD student in explainable and contestable AI, focusing on how AI systems are integrated into society and how explanations can help people understand and challenge these systems.
+      value: Scientific Researcher in Trustworthy AI with a PhD on explainable and contestable AI.
 
 - title: Education
   type: time_table
@@ -21,7 +21,7 @@
       description:
         - "Thesis: Explanations for AI Novices: Understanding, Deliberating, and Contesting Algorithmic Decisions"
         - Research on the design of explainable and contestable AI
-        - Graduation expected in summer 2026
+        - Thesis defended on the 20.08.2026
     - title: Master of Arts - Theories and Practices of Professional Writing
       institution: University of Cologne, Germany
       year: 2022
@@ -44,6 +44,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Scientific Researcher in Trustworthy AI
+      institution: Joint Research Center of the European Commission, Seville
+      year: 2026
+      description:
+        - Project Officer and Scientific Researcher on trustworthy and human-centric AI
+        - Providing scientific contributions to EU AI policies such as the EU AI Act and the Digital Services Act 
     - title: Scientific Trainee
       institution: Joint Research Center of the European Commission, Seville
       year: 2026
